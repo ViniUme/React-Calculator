@@ -1,5 +1,11 @@
 # <div align="center">React-Calculator</div>
+
 <div align="center"><a href="https://github.com/ViniUme/React-Calculator/blob/master/LICENSE"><img alt="GitHub" src="https://img.shields.io/github/license/ViniUme/React-Calculator?color=%231db954&style=for-the-badge"></a></div>
+
+## Traduções
+
+- [Português Brasileiro](translations/README-pt-br.md)
+
 
 ## Sobre
 Uma calculadora web feita com javascript, usando a biblioteca React.JS. Esse projeto é uma reprodução melhorada de outra <a href="https://github.com/ViniUme/Calculator-JS">calculadora javascript</a>, cuja é feita com javascript puro, desenvolvida por mim.
