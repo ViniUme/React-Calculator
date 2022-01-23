@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@200&display=swap');
+
+footer{
+    margin-top: 10px;
+}
+h1{
+    font-family: 'Inter', sans-serif;
+    color: white;
+    font-size: 20px;
+    position: relative;
+}
+img{
+    height: 30px;
+    position: absolute;
+    margin: auto;
+    right: 20px;
+    top: -5px;
+}
+a{
+    color: #1db954;
+    transition: color 250ms ease-in-out;
+}
+a:hover{
+    color: #0e993f;
+}
