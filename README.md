@@ -4,7 +4,9 @@
 
 ## Translations
     
-- [Português Brasileiro](translations/README-pt-br.md)
+- [Português Brasileiro](https://github.com/ViniUme/React-Calculator/blob/master/translations/README-pt-br.md)
+
+<br>
 
 ## About
 A web calculator maked with Javascript, using React.JS library. This project is a improved reproduction of the other <a href="https://github.com/ViniUme/Calculator-JS">Javascript Calculator</a> whose maked with pure javascript, desenvolved by me.
