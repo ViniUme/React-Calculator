@@ -4,7 +4,7 @@
 
 ## Traduções
 
-- [Português Brasileiro](translations/README-pt-br.md)
+- [English](https://github.com/ViniUme/React-Calculator)
 
 
 ## Sobre
