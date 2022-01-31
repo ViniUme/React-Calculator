@@ -24,7 +24,7 @@ Tenha o Node.js instalado e com o terminal aberto na pasta do projeto, instale a
 
     npm install
     
-Then type this command in project terminal:
+Então digite este comando para executar o código:
 
     npm start
     
