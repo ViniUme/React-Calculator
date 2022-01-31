@@ -16,7 +16,15 @@ Uma calculadora web feita com javascript, usando a biblioteca React.JS. Esse pro
 <br>
 
 ## Como Executar
-Faça o <a href="https://github.com/ViniUme/React-Calculator/archive/refs/heads/master.zip">Download</a> desse projeto e digite este comando no terminal do projeto
+Clone esse repositório:
+
+    git clone https://github.com/ViniUme/React-Calculator.git
+    
+Tenha o Node.js instalado e com o terminal aberto na pasta do projeto, instale as dependências:
+
+    npm install
+    
+Then type this command in project terminal:
 
     npm start
     
