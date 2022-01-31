@@ -17,10 +17,13 @@ A web calculator maked with Javascript, using React.JS library. This project is 
 <br>
 
 ## How to Run
-Have Node.js installed in your computer.
-Clone this repository, have the modules files of React.js in this project:
+Clone this repository:
 
     git clone https://github.com/ViniUme/React-Calculator.git
+    
+Have Node.js installed, with terminal opened in project folder, install the dependencies :
+
+    npm install
     
 Then type this command in project terminal:
 
